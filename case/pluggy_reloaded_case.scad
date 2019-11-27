@@ -50,22 +50,22 @@ expansion_header_width = 4;
 expansion_header_height = 17;
 
 // game gontroller and gigatron ports
-d_sub_x = 4.5;
+d_sub_x = 4;
 d_sub_z = 1.6;
-d_sub_height = 12.5;
-d_sub_width = 31;
+d_sub_height = 12.6;
+d_sub_width = 32;
 
 // usb and micro sd
 usb_sd_y = 19;
 usb_sd_z = 4;
 usb_sd_width = 51; // deliberately oversized to join with PS/2 cutout
-usb_sd_height = 4;
+usb_sd_height = 5;
 
 // ps/2
 ps2_y = 66;
 ps2_z = 1.6;
 ps2_width = 15;
-ps2_height = 13;
+ps2_height = 13.4;
 
 
 /////  END PARAMETERS  //////
