@@ -56,9 +56,9 @@ d_sub_height = 12.5;
 d_sub_width = 31;
 
 // usb and micro sd
-usb_sd_y = 20;
+usb_sd_y = 19;
 usb_sd_z = 4;
-usb_sd_width = 50; // deliberately oversized to join with PS/2 cutout
+usb_sd_width = 51; // deliberately oversized to join with PS/2 cutout
 usb_sd_height = 4;
 
 // ps/2
